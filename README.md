@@ -1,4 +1,4 @@
 # test-demo
 new line
-ERROR
-Error2
+fixed -> new line from local git repo
+fixed -> ERROR
